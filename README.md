@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=704178&height=200&section=header&text=Welcome!&fontSize=40&fontColor=d9d2e9)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BF3DC8&title_bg=%230C0D0D&icon=hey.svg&icon_color=%23D1C4C4&title=HI&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syong99&show_icons=true&theme=radical)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 
 ##  learning 📖
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -17,7 +19,6 @@
     <div>
 <!--         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  -->
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        
 <!--         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> -->
     </div>
     <!-- Server -->
