@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#B897FF&height=200&section=header&text=Welcome!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=704178&height=200&section=header&text=Welcome!&fontSize=40&fontColor=d9d2e9)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syong99&show_icons=true&theme=radical)
 
-##  Once I've used 
+##  environment 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -41,4 +41,4 @@
 </div><br>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#B897FF&height=200&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=704178&height=100&section=footer)
